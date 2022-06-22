@@ -1,0 +1,23 @@
+#btnl {
+    /*padding -> space inside the element*/
+    padding:10px;
+    border-radius: 30px;
+    background-color: lime;
+}
+
+#btnr {
+    padding: 10px;
+    border-radius: 30px;
+    background-color: lime;
+}
+
+img {
+    width: 958px;
+    height: 578px;
+}
+
+.wrapper {
+    /*margin -> space outside the element*/
+    margin-left: 100px;
+}
+
